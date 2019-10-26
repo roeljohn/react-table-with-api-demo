@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-table-with-api-demo/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-table-with-api-demo/static/js/main.9999c172.chunk.js",
+    "main.js.map": "/react-table-with-api-demo/static/js/main.9999c172.chunk.js.map",
+    "runtime-main.js": "/react-table-with-api-demo/static/js/runtime-main.8921395e.js",
+    "runtime-main.js.map": "/react-table-with-api-demo/static/js/runtime-main.8921395e.js.map",
+    "static/css/2.11f871ab.chunk.css": "/react-table-with-api-demo/static/css/2.11f871ab.chunk.css",
+    "static/js/2.099336a1.chunk.js": "/react-table-with-api-demo/static/js/2.099336a1.chunk.js",
+    "static/js/2.099336a1.chunk.js.map": "/react-table-with-api-demo/static/js/2.099336a1.chunk.js.map",
+    "index.html": "/react-table-with-api-demo/index.html",
+    "precache-manifest.1dfbb67271063ff570724374e5fd9e17.js": "/react-table-with-api-demo/precache-manifest.1dfbb67271063ff570724374e5fd9e17.js",
+    "service-worker.js": "/react-table-with-api-demo/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/react-table-with-api-demo/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/react-table-with-api-demo/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8921395e.js",
+    "static/css/2.11f871ab.chunk.css",
+    "static/js/2.099336a1.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.9999c172.chunk.js"
+  ]
+}
